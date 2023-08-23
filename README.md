@@ -24,3 +24,5 @@ My friend used to have a iMac computer and I'm too timid to replace my default s
 
 ### The Github Codespaces Experience™
 Here it is..
+**Disclaimer**: I will document *everything*. By the way, I don't use git directly in VSC.
+* I literally deleted my experience here so yeah.
